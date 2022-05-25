@@ -5,9 +5,9 @@ Calificación del laboratorio
 
 import sys
 
-import soluciones
+#import soluciones
 
-# import preguntas
+import preguntas
 preguntas = soluciones
 
 
